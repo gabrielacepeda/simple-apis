@@ -1,0 +1,32 @@
+#lyrics{
+  float: left;
+    width: 22%;
+    line-height: 34px;
+    text-align: center;
+    margin: 49px 0 0 -14%;;
+}
+
+.inputs{
+  float: left;
+}
+input{
+  font-size: 14px;
+  width: 40%;
+  height: 25px;
+}
+.enter{
+  /*float: left;*/
+  width: 20%;
+  height: 25px;
+}
+
+p{
+  text-align: center;
+  font-size: 18px;
+  font-style: italic;
+  margin: 0px 13px 0 38px;
+}
+
+h1{
+  color: #cc0000;
+}
