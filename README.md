@@ -7,7 +7,7 @@
 This is a combination of different API's using HTML, CSS and jQuery.
 
 ## Optimizations
-These apps work, but are limited to the information these API's provide.
+These apps work, but are limited to the information the API's provide.
 
 ## Lessons Learned:
 
